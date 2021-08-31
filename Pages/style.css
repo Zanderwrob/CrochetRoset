@@ -1,0 +1,63 @@
+/*background-color: #FF7F7F;*/
+#topNav {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding: 0;
+    margin: 0;
+}
+.topNavButt {
+    position: relative;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
+#body {
+    background-color: #d0eef6;
+}
+#lace {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 3;
+}
+#crochetroset {
+    display: block;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#biline {
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#search {
+    height: 25px;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#searchBar {
+    position: relative;
+    float: left;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    mask-image: url(..\images\home.png);
+}
+#searchButt {
+    position: relative;
+    float: right;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#mainNav {
+    position: relative;
+}
+.mainNavButt {
+    position: relative;
+}
